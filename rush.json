@@ -200,6 +200,9 @@
   },
 
   "repository": {
+    "url": "https://github.com/yangfei19881024/rush-monorepo",
+    "defaultBranch": "main",
+    "defaultRemote": "origin"
     /**
      * The URL of this Git repository, used by "rush change" to determine the base branch for your PR.
      *
