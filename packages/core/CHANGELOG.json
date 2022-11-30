@@ -2,6 +2,23 @@
   "name": "@y/core",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@y/core_v1.0.2",
+      "date": "Wed, 30 Nov 2022 03:09:54 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "new-->"
+          }
+        ],
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@y/utils\" to `1.1.1`"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@y/core_v1.0.1",
       "date": "Wed, 30 Nov 2022 03:06:44 GMT",
