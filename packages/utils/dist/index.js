@@ -2,7 +2,7 @@
 var _npmlog = require('npmlog'); var _npmlog2 = _interopRequireDefault(_npmlog);
 _npmlog2.default.heading = "js-cli";
 _npmlog2.default.addLevel("success", 2e3, { fg: "green", bold: true });
-console.log("utils changed!");
+console.log("utils changed!------>");
 
 
 exports.log = _npmlog2.default;

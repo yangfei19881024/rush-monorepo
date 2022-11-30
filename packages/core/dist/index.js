@@ -2,7 +2,7 @@
 var _utils = require('@y/utils');
 var core = () => {
   console.log("core change");
-  console.log("core change again!!!");
+  console.log("core change again!!!------>");
   _utils.log.info("test", "Hello world!");
 };
 core();
