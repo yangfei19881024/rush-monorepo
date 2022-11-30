@@ -15,7 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "@types/npmlog": "^4.1.4",
-    "@y/core": "workspace:^1.0.0",
     "lodash": "^4.17.21",
     "npmlog": "^7.0.1"
   }
